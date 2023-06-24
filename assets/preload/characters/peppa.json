@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "peppa idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-31
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "peppa left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "peppa right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-64
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "peppa down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				52
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "peppa up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/peppa",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "peppa",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		189,
+		240
+	],
+	"camera_position": [
+		0,
+		140
+	],
+	"sing_duration": 5.1,
+	"scale": 0.8
+}
