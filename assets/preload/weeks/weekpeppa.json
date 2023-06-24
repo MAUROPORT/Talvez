@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"rapping",
+			"peppa",
+			[
+				255,
+				173,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "house",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Vs Peppa Pig",
+	"weekName": "weekpeppa",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
